@@ -1,1 +1,6 @@
-
+<section class="categoria">
+        <h2>Livro para apreciar</h2>
+        <div class="categoria-livros">
+            <a href="https://static.fnac-static.com/multimedia/PT/pdf/9789897110009.pdf">
+                <img src="https://images.app.goo.gl/ehPUWiuuSxCAG48o6" />
+            </a>
